@@ -30,6 +30,7 @@ This project is a web application that displays a list of companies and their de
     ```sh
     uvicorn main:app --reload
     ```
+![image](https://github.com/user-attachments/assets/9791f5f8-5a41-4b95-97c1-7bf5e2e1df3f)
 
 ### Frontend
 
@@ -47,6 +48,7 @@ This project is a web application that displays a list of companies and their de
     ```sh
     npm start
     ```
+![image](https://github.com/user-attachments/assets/946f8286-8c29-4e8b-bd21-57a63df12e75)
 
 ### Docker
 
